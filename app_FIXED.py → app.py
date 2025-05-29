@@ -6,7 +6,7 @@ import io
 st.set_page_config(page_title="Tapi ➤ Tradify CSV Convertor", layout="centered", page_icon="📄")
 
 # Add branding banner
-st.image("logo.jpg", use_column_width=True)
+st.image("logo.jpg", use_container_width=True)
 
 st.title("📄 Tapi ➤ Tradify Work Order 'CSV File' Job Convertor")
 
